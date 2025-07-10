@@ -16,4 +16,4 @@ async def help_command(message: types.Message):
         - Basic instructions to use /start command
         - Contact information for support
     """
-    await message.reply("Type /start to begin.\nFor questions contact @neverbeentoxic")
+    await message.reply("Type /start to begin.\nFor questions contact @falleot")
